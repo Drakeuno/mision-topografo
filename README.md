@@ -1,5 +1,7 @@
 # Misión Topógrafo — Maqueta funcional
 
+**🔗 Demo en vivo: https://drakeuno.github.io/mision-topografo/**
+
 Prototipo web interactivo del software de gamificación del proyecto **PID 2026**
 *"Potenciando Aprendizajes Significativos: Gamificación como metodología de aprendizaje en
 Topografía"* (UC Temuco · Ing. en Construcción).
